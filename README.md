@@ -118,5 +118,3 @@ Este comando lerá o arquivo `aws-lambda-tools-defaults.json` automaticamente pa
 ---
 
 Feito com .NET 10 💜 por [Daniel](https://github.com/danhpaiva)
-
-```
